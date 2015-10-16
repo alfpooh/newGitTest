@@ -1,0 +1,326 @@
+{
+  "propertyManager" : {
+    "maxViewPort" : 960,
+    "c_" : "IUStorageManager",
+    "storageClassName" : "IUPropertyStorage",
+    "minViewPort" : 320,
+    "storages" : {
+      "array" : {
+        "t_" : [
+          {
+            "propertyStorage" : {
+              "sheetHeightKey" : 120,
+              "c_" : "NSMutableDictionary"
+            },
+            "c_" : "IUPropertyStorage"
+          },
+          {
+            "propertyStorage" : {
+              "sheetHeightKey" : 120,
+              "c_" : "NSMutableDictionary"
+            },
+            "c_" : "IUPropertyStorage"
+          },
+          {
+            "propertyStorage" : {
+              "sheetHeightKey" : 120,
+              "c_" : "NSMutableDictionary"
+            },
+            "c_" : "IUPropertyStorage"
+          }
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "keys" : {
+        "t_" : [
+          960,
+          768,
+          320
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "c_" : "JDMutableArrayDict"
+    }
+  },
+  "name" : "sidebar",
+  "htmlID" : "sidebar",
+  "styleManager" : {
+    "maxViewPort" : 960,
+    "c_" : "IUStorageManager",
+    "storageClassName" : "IUStyleStorage",
+    "minViewPort" : 320,
+    "storages" : {
+      "array" : {
+        "t_" : [
+          {
+            "heightUnit" : 0,
+            "c_" : "IUStyleStorage",
+            "widthUnit" : 1,
+            "width" : 100,
+            "height" : 500
+          },
+          {
+            "heightUnit" : 0,
+            "c_" : "IUStyleStorage",
+            "widthUnit" : 1,
+            "width" : 100,
+            "height" : 500
+          },
+          {
+            "heightUnit" : 0,
+            "c_" : "IUStyleStorage",
+            "widthUnit" : 1,
+            "width" : 100,
+            "height" : 500
+          }
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "keys" : {
+        "t_" : [
+          960,
+          768,
+          320
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "c_" : "JDMutableArrayDict"
+    }
+  },
+  "children" : {
+    "t_" : [
+      {
+        "enableHCenter" : true,
+        "htmlID" : "Text3",
+        "propertyManager" : {
+          "maxViewPort" : 960,
+          "c_" : "IUStorageManager",
+          "storageClassName" : "IUPropertyStorage",
+          "minViewPort" : 320,
+          "storages" : {
+            "array" : {
+              "t_" : [
+                {
+                  "propertyStorage" : {
+                    "IUPropertyTextKey" : "<p>Sidebar Area<\/p>",
+                    "c_" : "NSMutableDictionary"
+                  },
+                  "c_" : "IUPropertyStorage"
+                },
+                {
+                  "propertyStorage" : {
+                    "IUPropertyTextKey" : "<p>Sidebar Area<\/p>",
+                    "c_" : "NSMutableDictionary"
+                  },
+                  "c_" : "IUPropertyStorage"
+                },
+                {
+                  "propertyStorage" : {
+                    "IUPropertyTextKey" : "<p>Sidebar Area<\/p>",
+                    "c_" : "NSMutableDictionary"
+                  },
+                  "c_" : "IUPropertyStorage"
+                }
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "keys" : {
+              "t_" : [
+                960,
+                768,
+                320
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "c_" : "JDMutableArrayDict"
+          }
+        },
+        "styleManager" : {
+          "maxViewPort" : 960,
+          "c_" : "IUStorageManager",
+          "storageClassName" : "IUStyleStorage",
+          "minViewPort" : 320,
+          "storages" : {
+            "array" : {
+              "t_" : [
+                {
+                  "fontAlign" : 1,
+                  "fontSize" : 12,
+                  "c_" : "IUStyleStorage",
+                  "widthUnit" : 0,
+                  "fontName" : "Helvetica",
+                  "fontColor" : {
+                    "A" : 1,
+                    "c_" : "NSColor",
+                    "R" : 0.6621160507202148,
+                    "B" : 0.6621233820915222,
+                    "G" : 0.6621319055557251
+                  },
+                  "heightUnit" : 0
+                },
+                {
+                  "fontAlign" : 1,
+                  "fontSize" : 12,
+                  "c_" : "IUStyleStorage",
+                  "widthUnit" : 0,
+                  "fontName" : "Helvetica",
+                  "fontColor" : {
+                    "A" : 1,
+                    "c_" : "NSColor",
+                    "R" : 0.6621160507202148,
+                    "B" : 0.6621233820915222,
+                    "G" : 0.6621319055557251
+                  },
+                  "heightUnit" : 0
+                },
+                {
+                  "fontAlign" : 1,
+                  "fontSize" : 12,
+                  "c_" : "IUStyleStorage",
+                  "widthUnit" : 0,
+                  "fontName" : "Helvetica",
+                  "fontColor" : {
+                    "A" : 1,
+                    "c_" : "NSColor",
+                    "R" : 0.6621160507202148,
+                    "B" : 0.6621233820915222,
+                    "G" : 0.6621319055557251
+                  },
+                  "heightUnit" : 0
+                }
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "keys" : {
+              "t_" : [
+                960,
+                768,
+                320
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "c_" : "JDMutableArrayDict"
+          }
+        },
+        "c_" : "IUText",
+        "children" : {
+          "t_" : [
+
+          ],
+          "c_" : "NSMutableArray"
+        },
+        "positionManager" : {
+          "maxViewPort" : 960,
+          "c_" : "IUStorageManager",
+          "storageClassName" : "IUPositionStorage",
+          "minViewPort" : 320,
+          "storages" : {
+            "array" : {
+              "t_" : [
+                {
+                  "y" : 43,
+                  "xUnit" : 0,
+                  "c_" : "IUPositionStorage",
+                  "yUnit" : 0,
+                  "position" : 0,
+                  "x" : 0
+                },
+                {
+                  "y" : 43,
+                  "xUnit" : 0,
+                  "c_" : "IUPositionStorage",
+                  "yUnit" : 0,
+                  "position" : 0,
+                  "x" : 0
+                },
+                {
+                  "y" : 43,
+                  "xUnit" : 0,
+                  "c_" : "IUPositionStorage",
+                  "yUnit" : 0,
+                  "position" : 0,
+                  "x" : 0
+                }
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "keys" : {
+              "t_" : [
+                960,
+                768,
+                320
+              ],
+              "c_" : "NSMutableArray"
+            },
+            "c_" : "JDMutableArrayDict"
+          }
+        },
+        "name" : "Text3"
+      }
+    ],
+    "c_" : "NSMutableArray"
+  },
+  "ghostOpacity" : 0.5,
+  "rulerVerticalLocatiionArray" : {
+    "t_" : [
+
+    ],
+    "c_" : "NSArray"
+  },
+  "isDefaultFileItem" : true,
+  "rulerHorizontalLocationArray" : {
+    "t_" : [
+
+    ],
+    "c_" : "NSArray"
+  },
+  "positionManager" : {
+    "maxViewPort" : 960,
+    "c_" : "IUStorageManager",
+    "storageClassName" : "IUPositionStorage",
+    "minViewPort" : 320,
+    "storages" : {
+      "array" : {
+        "t_" : [
+          {
+            "y" : 0,
+            "xUnit" : 0,
+            "c_" : "IUPositionStorage",
+            "yUnit" : 0,
+            "position" : 0,
+            "x" : 0
+          },
+          {
+            "y" : 0,
+            "xUnit" : 0,
+            "c_" : "IUPositionStorage",
+            "yUnit" : 0,
+            "position" : 0,
+            "x" : 0
+          },
+          {
+            "y" : 0,
+            "xUnit" : 0,
+            "c_" : "IUPositionStorage",
+            "yUnit" : 0,
+            "position" : 0,
+            "x" : 0
+          }
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "keys" : {
+        "t_" : [
+          960,
+          768,
+          320
+        ],
+        "c_" : "NSMutableArray"
+      },
+      "c_" : "JDMutableArrayDict"
+    }
+  },
+  "eventVariable" : {
+    "c_" : "NSMutableDictionary"
+  }
+}

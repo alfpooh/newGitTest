@@ -1,0 +1,67 @@
+{
+  "_classGroup" : {
+    "_children" : {
+      "t_" : [
+        {
+          "m_" : "7D71F0F2-7B0C-4900-ABCC-79729D7ED66A",
+          "file_" : "header-7D71F0F2-7B0C-4900-ABCC-79729D7ED66A.json",
+          "c_" : "IUClass"
+        },
+        {
+          "m_" : "7BD73D85-0915-4409-901D-F458FD4085EE",
+          "file_" : "footer-7BD73D85-0915-4409-901D-F458FD4085EE.json",
+          "c_" : "IUClass"
+        },
+        {
+          "file_" : "sidebar-D1790272-0FD3-4B4A-9DF7-B5E0C0FEC6FC.json",
+          "m_" : "D1790272-0FD3-4B4A-9DF7-B5E0C0FEC6FC",
+          "c_" : "IUClass"
+        }
+      ],
+      "c_" : "NSMutableArray"
+    },
+    "c_" : "IUSheetGroup",
+    "isDefaultFileItem" : true,
+    "name" : "compositions",
+    "childrenFileItemsCount" : 3
+  },
+  "_author" : "JDLab.org",
+  "_pageGroup" : {
+    "_children" : {
+      "t_" : [
+        {
+          "m_" : "F474CA5B-D41E-4CFA-9326-C7E5FE934935",
+          "file_" : "index-F474CA5B-D41E-4CFA-9326-C7E5FE934935.json",
+          "c_" : "IUPage"
+        },
+        {
+          "m_" : "23E19755-BDB6-4C46-87FE-16B9BB6A971F",
+          "file_" : "milestone-23E19755-BDB6-4C46-87FE-16B9BB6A971F.json",
+          "c_" : "IUPage"
+        }
+      ],
+      "c_" : "NSMutableArray"
+    },
+    "c_" : "IUSheetGroup",
+    "isDefaultFileItem" : true,
+    "name" : "pages",
+    "childrenFileItemsCount" : 2
+  },
+  "_enableMinWidth" : true,
+  "_buildPort" : 8000,
+  "_metaImagePath" : "http:\/\/iupro.iueditor.org\/resource\/project\/iuacademy-meta-600.jpg",
+  "_buildPath" : "$CurrentFolder\/$AppName_build",
+  "_resourceBuildPath" : "$CurrentFolder\/$AppName_build\/resource",
+  "c_" : "IUProject",
+  "_favicon" : "\/favicon-iu-academy.ico",
+  "_name" : "template",
+  "_resourcePrefix" : "\/resource",
+  "viewPorts" : {
+    "t_" : [
+      320,
+      768,
+      960
+    ],
+    "c_" : "NSMutableArray"
+  }
+}

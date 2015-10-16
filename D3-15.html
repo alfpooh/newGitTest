@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+	<title>Alf's D3 traning and git test</title>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+<script>
+
+var width= 800, height = 600;
+
+var canvas = d3.select("body").append("svg")
+	.attr("width", 500)
+	.attr("height", 500)
+	.append("g")
+		.attr("transform", "translate (50,50)");
+		
+var pack = d3.layout.pack()
+.size([width, height - 50])
+.padding(10);
+
+d3.json("mydata.json", function (data) {
+var nodes = pack.nodes(data);
+console.log(nodes);
+})
+
+</script>
+</body>
+</html>
